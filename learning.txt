@@ -1,0 +1,16 @@
+1.make background
+2.find the center of the body
+3.make cylinder and use edit mode to adjust it
+4.add mirror modifier
+5.ikut jer reference
+6.choose 3 top vertices an change to top view
+7.extrude on x axis
+8. adjust the cunt
+9.continue the upper part until to the neck
+10.adjust the edge loop
+11.make hand cap end off
+12.join the hand to the body
+13.do the neck.
+14 tweak it
+15. do the shoe
+16 tweak on top using alt-B
